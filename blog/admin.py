@@ -7,7 +7,6 @@ admin.site.register(Comments)
 
 
 #blogsuperuser
-#blogsuperuser
 
 
 
